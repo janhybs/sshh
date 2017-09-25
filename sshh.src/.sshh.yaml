@@ -1,0 +1,13 @@
+- server:   hybs.nti.tul.cz
+  user:     jan-hybs
+  tags:     ['home']
+
+- server:   hybsntb.nti.tul.cz
+  user:     jan-hybs
+  tags:     ['ntb', 'laptop']
+
+- server:   tarkil.grid.cesnet.cz
+  user:     jan-hybs
+  tags:     ['meta']
+  workdir:  /storage/praha1/home/jan-hybs/projects
+  password: tarkil.grid.pass
