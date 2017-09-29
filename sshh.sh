@@ -35,7 +35,7 @@ do
             exit 0
         ;;
         *)
-            SERVER="$2"
+            SERVER="$1"
             shift
             shift
             connect_to_server "$SERVER"
