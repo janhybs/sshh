@@ -161,5 +161,5 @@ if args.connect is not None:
 print("Available servers:")
 for c in connections:
     idx, fmt = connections.index(c) + 1, c.pretty()
-    print(' - %d) %s' % (idx, fmt))
+    print(' %d) %s' % (idx, fmt))
 
